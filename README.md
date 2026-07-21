@@ -4,10 +4,10 @@
   <p>📍 Based in Pakistan</p>
 
   <p>
-    <a href="https://linkedin.com/in/masood-haider" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
     <a href="mailto:masood.haider.bangash1@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-    <a href="https://fb.com/masoodhaiderr" target="_blank"><img src="https://shields.io" alt="Facebook" /></a>
-    <a href="https://instagram.com/masoodhaiderr" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
+    <a href="https://fb.com" target="_blank"><img src="https://shields.io" alt="Facebook" /></a>
+    <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
   </p>
 </div>
 
@@ -23,57 +23,18 @@
 
 ### 🛠️ Languages & Tools
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend & DB</strong></td>
-    <td align="center" width="25%"><strong>Design & DevTools</strong></td>
-    <td align="center" width="25%"><strong>Other</strong></td>
-  </tr>
-  <tr>
-    <td align="left" valign="top">
-      • JavaScript (ES6+)<br>
-      • React.js<br>
-      • Tailwind CSS<br>
-      • Bootstrap<br>
-      • HTML5 & CSS3
-    </td>
-    <td align="left" valign="top">
-      • Node.js<br>
-      • Express.js<br>
-      • MongoDB<br>
-      • PostgreSQL<br>
-      • SQLite
-    </td>
-    <td align="left" valign="top">
-      • Figma (UI/UX)<br>
-      • Postman<br>
-      • Firebase<br>
-      • Git & GitHub
-    </td>
-    <td align="left" valign="top">
-      • Materialize CSS<br>
-      • MATLAB
-    </td>
-  </tr>
-</table>
+| Frontend | Backend & DB | Design & DevTools | Other |
+| :--- | :--- | :--- | :--- |
+| • JavaScript (ES6+)<br>• React.js<br>• Tailwind CSS<br>• Bootstrap<br>• HTML5 & CSS3 | • Node.js<br>• Express.js<br>• MongoDB<br>• PostgreSQL<br>• SQLite | • Figma (UI/UX)<br>• Postman<br>• Firebase<br>• Git & GitHub | • Materialize CSS<br>• MATLAB |
 
 ---
 
 ### 📊 GitHub Metrics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Masood's GitHub Stats" height="190" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" height="190" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://vercel.app" alt="Masood's GitHub Stats" height="170" />
+  <img src="https://vercel.app" alt="Top Languages" height="170" />
   
-  <br>
+  <br><br>
   <img src="https://herokuapp.com" alt="GitHub Streak" />
 </div>
