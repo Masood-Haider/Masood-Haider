@@ -1,18 +1,79 @@
-<h1 align="center">Hi , I'm Masood Haider</h1>
-<h3 align="center">A MERN stack developer from Pakistan,</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Masood Haider</h1>
+  <p><strong>Full-Stack MERN Developer | UI/UX Enthusiast</strong></p>
+  <p>📍 Based in Pakistan</p>
 
-- 💬 Ask me about **React ,Express mongo db , ui/ux and postgreSql**
+  <p>
+    <a href="https://linkedin.com/in/masood-haider" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+    <a href="mailto:masood.haider.bangash1@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+    <a href="https://fb.com/masoodhaiderr" target="_blank"><img src="https://shields.io" alt="Facebook" /></a>
+    <a href="https://instagram.com/masoodhaiderr" target="_blank"><img src="https://shields.io" alt="Instagram" /></a>
+  </p>
+</div>
 
-- 📫 How to reach me **masood.haider.bangash1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/masood-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masood-haider" height="30" width="40" /></a>
-<a href="https://fb.com/masoodhaiderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masoodhaiderr" height="30" width="40" /></a>
-<a href="https://instagram.com/masoodhaiderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masoodhaiderr" height="30" width="40" /></a>
-</p>
+### 🚀 About Me
+- 🔭 **Current Focus:** Building scalable, secure, and user-centric web applications.
+- 💡 **Specialties:** Full-stack development with the MERN Ecosystem and relational database architecture.
+- 💬 **Ask Me About:** React, Express, MongoDB, PostgreSQL, UI/UX principles, and RESTful API engineering.
+- 📫 **Let's Connect:** Drop an email at **masood.haider.bangash1@gmail.com** for collaborations or opportunities!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masood-haider&show_icons=true&locale=en&layout=compact" alt="masood-haider" /></p>
+### 🛠️ Languages & Tools
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend & DB</strong></td>
+    <td align="center" width="25%"><strong>Design & DevTools</strong></td>
+    <td align="center" width="25%"><strong>Other</strong></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      • JavaScript (ES6+)<br>
+      • React.js<br>
+      • Tailwind CSS<br>
+      • Bootstrap<br>
+      • HTML5 & CSS3
+    </td>
+    <td align="left" valign="top">
+      • Node.js<br>
+      • Express.js<br>
+      • MongoDB<br>
+      • PostgreSQL<br>
+      • SQLite
+    </td>
+    <td align="left" valign="top">
+      • Figma (UI/UX)<br>
+      • Postman<br>
+      • Firebase<br>
+      • Git & GitHub
+    </td>
+    <td align="left" valign="top">
+      • Materialize CSS<br>
+      • MATLAB
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" alt="Masood's GitHub Stats" height="190" />
+      </td>
+      <td>
+        <img src="https://vercel.app" alt="Top Languages" height="190" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</div>
